@@ -12,7 +12,7 @@
     "react-scripts": "1.0.10",
     "redux": "^3.7.2"
   },
-  "homepage": "http://thepuneeth1996p.cf/proj/udaciMealsPlanner/",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
